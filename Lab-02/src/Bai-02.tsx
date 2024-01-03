@@ -1,6 +1,6 @@
 import React from 'react';
 
-// Function component không sử dụng hook
+
 function Clock(props) {
   const getCurrentTime = () => {
     const now = new Date();
